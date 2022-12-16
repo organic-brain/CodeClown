@@ -55,10 +55,9 @@ input's their username and password into the form's text fields
 
 <div class="wrap-input100 validate-input" data-validate = "Password is required">
 
-    Password: UGljYXNzb0JhZ3VldHRlOTk=
-    Password(base64)
+    Pass: UGljYXNzb0JhZ3VldHRlOTk=
     
-    <span class="focus-input100"></span>
+        <span class="focus-input100"></span>
     <span class="symbol-input100">
     <i class="fa fa-lock" aria-hidden="true"></i>
     </span>
